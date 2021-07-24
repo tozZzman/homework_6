@@ -1,8 +1,6 @@
-Package               Version
---------------------- ---------
-allure-pytest         2.9.43
-allure-python-commons 2.9.43
-pytest                6.2.4
-pytest-xdist          2.2.1
-selenium              3.141.0
+allure-pytest==2.9.43
+allure-python-commons==2.9.43
+pytest==6.2.4
+pytest-xdist==2.2.1
+selenium==3.141.0
 
